@@ -64,5 +64,7 @@ ranks neff;
 symbol1 v=circle;
 proc gplot data=effect5; 
 plot effect*neff=_NAME_; 
+//new line
+//another new line
 run;
 quit;
